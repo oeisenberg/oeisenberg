@@ -1,4 +1,4 @@
-### Hi there 👋
+Completed sixth form in Singapore after having lived in Tokyo before continuing my studies in Computer Science at the University of Bath for which I achieved a Bachelor Of Science award with First-class honours. My repositories contain some of the work completed as part of my undergraduate degree, in addition to personal projects I have undertaken to expand my frame of knowledge and experiment with different technologies. Feel free to check me out on [LinkedIn](https://www.linkedin.com/in/olivereisenberg).
 
 <!--
 **oeisenberg/oeisenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
