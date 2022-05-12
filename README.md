@@ -2,6 +2,8 @@ Completed sixth form in Singapore after having lived in Tokyo before continuing 
 
 My repositories contain some of the work completed as part of my undergraduate degree, in addition to personal projects I have undertaken to expand my frame of knowledge and experiment with different technologies. 
 
+My personal repository also contains a version of my [CV](https://github.com/oeisenberg/oeisenberg/blob/master/Oliver%20Eisenberg%2C%20CV.pdf).
+
 Feel free to check me out on:
 - [LinkedIn](https://www.linkedin.com/in/olivereisenberg)
 - [HackerRank](https://www.hackerrank.com/oliver_eisenber1)
